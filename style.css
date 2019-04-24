@@ -1,0 +1,46 @@
+img {
+	width: 50px;
+}
+
+#face {
+	width: 400px;
+}
+#eyes2 
+{
+	width:200px;
+	position: absolute;
+	top: 200px;
+	left: 100px;
+}
+#mouth1
+{
+	width: 100px;
+	position: absolute;
+	bottom: 210px;
+	left: 160px;
+}
+#nose2{
+	position: absolute;
+	top: 280px;
+	left: 170px;
+	width: 70px;
+
+}
+#bowtie{
+	position: absolute;
+	bottom: 180px;
+	left: 160px;
+	width: 100px;
+}
+#crown{
+	position: absolute;
+	top: 40px;
+	left: 100px;
+	width: 230px;
+}
+#ears1{
+	position: absolute;
+	top: 140px;
+	left: 10px;
+	width: 390px;
+}
